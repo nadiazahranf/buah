@@ -1,7 +1,7 @@
 [
     {"nama": "Apel", "namaLatin": "Malus domestica", "imageId": "apel"},
-    {"nama": "Buah Naga", "namaLatin": "Hylocereus polyrhizus", "imageId": "buah naga"},
-    {"nama": "Jambu Biji", "namaLatin": "Psidium guajava", "imageId": "jambu biji"},
+    {"nama": "Buah Naga", "namaLatin": "Hylocereus polyrhizus", "imageId": "buahnaga"},
+    {"nama": "Jambu Biji", "namaLatin": "Psidium guajava", "imageId": "jambubiji"},
     {"nama": "Jeruk", "namaLatin": "Citrus sinensis", "imageId": "jeruk"},
     {"nama": "Mangga", "namaLatin": "Mangifera indica", "imageId": "mangga"},
     {"nama": "Manggis", "namaLatin": "Garcinia mangostana", "imageId": "manggis"},
